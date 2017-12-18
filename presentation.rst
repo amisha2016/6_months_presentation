@@ -220,7 +220,7 @@ A web app developed for **"Love Ludhiana"** contest. As per the contest rules, u
 :data-y: r0
 
 Technologies Used
-===================
+=================
 
 * Python Django Framework
 * Facebook Graph API
