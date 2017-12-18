@@ -127,7 +127,7 @@ OSM Components
 :data-y: r-2000
 :data-z: r-1300
 
-Technologies Used:
+Technologies Used
 ==================
 
 * C++
@@ -219,8 +219,8 @@ A web app developed for **"Love Ludhiana"** contest. As per the contest rules, u
 
 :data-y: r0
 
-Technologies Used:
-=====================
+Technologies Used
+===================
 
 * Python Django Framework
 * Facebook Graph API
@@ -229,6 +229,7 @@ Technologies Used:
 ----
 
 Website
+
 
 .. image:: images/luvwebside.png
 	:height: 600px
@@ -249,6 +250,7 @@ After **Facebook** authentication
 
 Form submitted
 
+
 .. image:: images/submitluv.png
 	:height: 600px
 	:width: 1000px
@@ -259,6 +261,7 @@ Form submitted
 User post on **Love Ludhiana**
 
 Facebook page
+
 
 .. image:: images/fbpost.png
 

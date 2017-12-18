@@ -10,7 +10,7 @@ p {
     font-weight: normal;
     margin-bottom: 0.3em;
     margin-top: 0.3em;
-    text-align: left;
+    text-align: center;
 }
 
 pre {
@@ -22,6 +22,10 @@ h1, h2, h3, h4 {
     margin-bottom: 0.3em;
     margin-top: 0.3em;
 }
+
+.luv {
+	    margin-left: -100px;
+    }
 
 tt {
     font-size: 125;
