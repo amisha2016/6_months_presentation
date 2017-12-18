@@ -39,6 +39,7 @@ Before starting, I want to *acknowledge* some people.
 
 * *Dr. H.S. Rai* (Dean TCC and Head of Training)
 * *Mandeep Singh* (Developer of Librehatti)
+* *Amritpal Singh* (LuvLdh App Collaborator)
 
 ----
 
@@ -66,7 +67,7 @@ Multiple Organizations like Google Maps, Ordnance Survey provide maps but with t
 
 - They are costly.
 
-- Offline inaccessible.
+- For offline access, it is mandatory to re-download maps after few days.
 
 - Mass downloads sometimes impossible.
 
@@ -77,6 +78,7 @@ Multiple Organizations like Google Maps, Ordnance Survey provide maps but with t
 :data-scale: 5
 
 **But we have a solution.**
+=============================
 
 ----
 
@@ -192,19 +194,6 @@ Implementation
 
 ----
 
-**With this, I end my first project.**
-=============================================
-
-* **Clone** from (https://github.com/amisha2016/pbOSM)
-* **Documentation** (https://github.com/amisha2016/pbOSM/html/)
-* **Blogs** (https://amisha2016.wordpress.com/)
-
-----
-
-
-
-
-
 
 :data-y: r0
 
@@ -312,11 +301,13 @@ The main benefit of this Project
 
 ----
 
-With this, I end my last project.
-====================================
+References
+===========
 
-* **Source Code**: https://github.com/amisha2016/Librehatti
-
+* **Source Code**: (https://github.com/amisha2016)
+* **Blog**: (https://amisha2016.wordpress.com/)
+* **Documentation**: (https://github.com/amisha2016/pbOSM/html/)
+* **Project Demo**: (https://lab.gdy.club)
 
 ----
 
